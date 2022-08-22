@@ -7,6 +7,7 @@
 `TODO://` <img src="https://imgur.com/a/brtNzTC" width=200><br>
 
 `TODO://`
+
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {Rahma}!
 - [x] 2. User see's custom background color.
